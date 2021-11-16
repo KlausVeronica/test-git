@@ -1,2 +1,2 @@
 # test-git
-first github repo for testing
+this is my first github repo for testing
